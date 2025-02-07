@@ -9,5 +9,7 @@ public class Main{
         System.out.println("Added something again");
 
         System.out.println("For sake of pull request");
+
+        System.out.println("Changes from KB");
     }
 }
